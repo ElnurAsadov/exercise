@@ -6,7 +6,7 @@ div {width: 210mm;
     margin: 50px auto;
     background-color: white;
     font-family: 'Times New Roman';
-    }
+    border:7px solid rgb(247, 160, 0);}
 
 hr {border-style: solid;}
 
